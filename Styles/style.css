@@ -10,6 +10,7 @@
 
 
 body{
+    background-color: black;
     font-family: "Inter", sans-serif;
     color: #fff;
 }
@@ -58,7 +59,7 @@ nav li{
 }
 
 .logo{
-    font-size: 2rem;
+    font-size: 2.2rem;
     font-weight: 800;
     color: rgb(230, 83, 60);
 }
@@ -74,7 +75,7 @@ nav li{
 /* **********this is hero section style start here*********** */
 .hero-section{
     max-width: 1060px;
-    /* border: 2px solid purple; */
+    border: 2px solid purple;
     margin: 0 auto;
     display: flex;
     align-items: center;
@@ -83,7 +84,7 @@ nav li{
 
 .hero-content{
     max-width: 520px;
-    /* border: 2px solid yellow; */
+    border: 2px solid yellow;
     
 }
 
@@ -111,8 +112,9 @@ nav li{
 
 .hero-section-image{
     max-width: 349px;
-    height: 580px;
-    /* border: 2px solid green; */
+    /* height: 580px; */
+    border: 2px solid yellow;
+
 }
 
 .hero-btn-1{
@@ -134,3 +136,74 @@ nav li{
     color: #fff;
     border: 1px solid #fff;
 }
+
+/* badg style related */
+.badg-1{
+    width: 193px;
+    height: 98px;
+    box-sizing: border-box;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    backdrop-filter: blur(20px);
+    background: rgba(255, 255, 255, 0.1);
+    /* border: 2px solid red; */
+    position: relative;
+    top: -450px;
+    left: 230px;
+}
+
+.bg-1-jumbo-number{
+    font-size: 40px;
+    font-weight: 900;
+    color: rgb(255, 255, 255);
+}
+
+.bg-1-ciknu-text{
+    font-size: 13px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.65);
+}
+
+.badg-2{
+    box-sizing: border-box;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    width: 206px;
+    height: 96px;
+    backdrop-filter: blur(20px);
+    background: rgba(48, 48, 48, 0.54);
+    position: relative;
+    top: -270px;
+    right: 120px;
+}
+
+/* .ball{
+    width: 40px;
+    height: 40px;
+    background: rgb(230, 83, 60);
+    border-radius: 50%;
+} */
+
+
+.jumbo-number{
+    font-size: 24px;
+    font-weight: 900;
+    color: rgb(255, 255, 255);
+}
+
+.ciknu-text{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.65);
+}
+
+
+
+
+
+
+
+
+
+
+

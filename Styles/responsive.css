@@ -7,19 +7,29 @@
     }
     .hamburger-menu-btn{
         display: block;
-        margin-right: 2px;
+        /* margin-right: 2px; */
+    }
+    .navber{
+        margin: 57px 20px;
+    }
+
+    .hero-section{
+        margin-left: 20px;
+        margin-right: 20px;
     }
 
     .hero-content-title{
         font-size: 36px;
         font-weight: 900;
+        max-width: 75%;
     }
+    .hero-content {
+
+    }
+    
 
     .hero-content-description{
-        line-height: 24px;
-        text-align: left;
-        font-size: 16px;
-        font-weight: 400;
+        max-width: 70%;
     }
     .responsive-hero-des{
         width: 274px;
@@ -35,11 +45,7 @@
     .hero-section{
         gap: 48px;
     }
-    .hero-content{
-        margin-right: 65px;
-    }
-    .hero-section, .navber{
-        margin: 51px 15px;
-    }
+    
+    
 
 }
