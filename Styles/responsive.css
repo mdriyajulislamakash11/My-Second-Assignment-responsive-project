@@ -29,11 +29,10 @@
 
     .hero-btn-1, .hero-btn-2{
         font-size: 15px;
+        padding: 16px 30px 16px 40px;
     }
     .hero-section{
-     
         gap: 48px;
     }
-
 
 }

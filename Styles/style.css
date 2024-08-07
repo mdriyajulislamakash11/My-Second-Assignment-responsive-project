@@ -23,7 +23,7 @@ body{
 .navber{
     max-width: 1060px;
     height: 46px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
@@ -70,7 +70,7 @@ nav li{
 /* **********this is hero section style start here*********** */
 .hero-section{
     max-width: 1060px;
-    border: 2px solid purple;
+    /* border: 2px solid purple; */
     margin: 0 auto;
     display: flex;
     align-items: center;
@@ -79,7 +79,7 @@ nav li{
 
 .hero-content{
     max-width: 520px;
-    border: 2px solid yellow;
+    /* border: 2px solid yellow; */
 }
 
 .hero-content-title{
@@ -107,7 +107,7 @@ nav li{
 .hero-section-image{
     max-width: 349px;
     height: 580px;
-    border: 2px solid green;
+    /* border: 2px solid green; */
 }
 
 .hero-btn-1{
