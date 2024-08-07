@@ -23,20 +23,10 @@
         font-weight: 900;
         max-width: 75%;
     }
-    .hero-content {
-
-    }
     
-
     .hero-content-description{
         max-width: 70%;
     }
-    .responsive-hero-des{
-        width: 274px;
-        height: 96px;  
-        margin-bottom: 30px;    
-    }
-
     .hero-btn-1, .hero-btn-2{
         font-size: 15px;
         padding: 16px 40px 16px 40px;
