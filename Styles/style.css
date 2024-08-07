@@ -191,7 +191,7 @@ nav li{
     color: rgb(255, 255, 255);
 }
 
-.ciknu-text{
+.ciknu-text{ 
     font-size: 16px;
     font-weight: 400;
     color: rgba(255, 255, 255, 0.65);
@@ -204,6 +204,7 @@ nav li{
     height: 400px;
     background-color: aqua;
     margin: 0 auto;
+    
 }
 
 
