@@ -2,4 +2,12 @@
     .hero-section{
         flex-direction: column;
     }
+    ul li{
+        display: none;
+    }
+    .hamburger-menu-btn{
+        display: block;
+        margin-right: 2px;
+        color: #fff;
+    }
 }
