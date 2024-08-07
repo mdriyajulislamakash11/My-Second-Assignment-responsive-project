@@ -19,7 +19,7 @@ body{
 .header-section{
     max-width: 1440px;
     min-height: 715px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     margin: 0 auto;
     background-color: black;
 }
