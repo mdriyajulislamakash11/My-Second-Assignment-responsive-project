@@ -1,0 +1,120 @@
+
+
+
+
+
+body{
+    color: #fff;
+}
+
+/* ********************nav section style start here************************* */
+
+.header-section{
+    max-width: 1440px;
+    min-height: 715px;
+    border: 2px solid red;
+    margin: 0 auto;
+    background-color: black;
+}
+
+.navber{
+    max-width: 1060px;
+    height: 46px;
+    border: 2px solid red;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 45px auto;
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+    
+}
+
+nav li{
+    list-style: none;
+    margin-right: 47px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.About-btn{
+    margin: 0 20px;
+}
+
+i{
+    color: rgb(230, 83, 60);
+}
+
+.logo{
+    font-size: 2rem;
+    font-weight: 800;
+}
+
+.home-btn{
+    font-size: 1.1rem;
+    font-weight: 600;
+    background-color: rgb(230, 83, 60);
+    border-radius: 46px;
+    padding: 8px 20px 8px 20px;
+}
+
+/* **********this is hero section style start here*********** */
+.hero-section{
+    max-width: 1060px;
+    border: 2px solid purple;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 167px;
+}
+
+.hero-content{
+    max-width: 520px;
+    height: 440px;
+    border: 2px solid yellow;
+}
+
+.hero-content-title{
+    font-size: 4.4rem;
+    font-weight: 900;
+    margin-top: 0;
+    margin-bottom: 28px;
+}
+
+.hero-content-description{
+    font-size: 1rem;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.5);
+    line-height: 24px;
+    letter-spacing: 0.5px;
+    margin-bottom: 28px;
+}
+
+.hero-section-image{
+    max-width: 349px;
+    height: 580px;
+    border: 2px solid green;
+}
+
+.hero-btn-1{
+    border-radius: 42px;
+    padding: 16px 40px 16px 40px;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: rgb(230, 83, 60);
+    color: #fff;
+}
+
+.hero-btn-2{
+    border-radius: 42px;
+    padding: 16px 40px 16px 40px;
+    font-size: 1rem;
+    font-weight: 600;
+    background-color: black;
+    color: #fff;
+    border: 1px solid #fff;
+}
