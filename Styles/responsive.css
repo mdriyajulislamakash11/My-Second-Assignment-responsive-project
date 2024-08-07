@@ -8,6 +8,32 @@
     .hamburger-menu-btn{
         display: block;
         margin-right: 2px;
-        color: #fff;
     }
+
+    .hero-content-title{
+        font-size: 36px;
+        font-weight: 900;
+    }
+
+    .hero-content-description{
+        line-height: 24px;
+        text-align: left;
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .responsive-hero-des{
+        width: 274px;
+        height: 96px;  
+        margin-bottom: 30px;    
+    }
+
+    .hero-btn-1, .hero-btn-2{
+        font-size: 15px;
+    }
+    .hero-section{
+     
+        gap: 48px;
+    }
+
+
 }
